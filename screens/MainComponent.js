@@ -36,7 +36,7 @@ const DirectoryNavigator = () => {
       <Stack.Screen
         name="Directory"
         component={DirectoryScreen}
-        options={{ title: "Campsite Directory " }}
+        options={{ title: "Campsite Directory" }}
       />
       <Stack.Screen
         name="CampsiteInfo"
